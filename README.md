@@ -1,2 +1,22 @@
-# MorseCode_Translator
-The Morse Code Translator is a versatile and user-friendly tool designed to convert text into Morse code and vice versa. This open-source project provides a seamless and efficient way to communicate in Morse code, whether for educational purposes, amateur radio, or just for fun. With a simple and intuitive user interface.
+📡 Morse Code Translator (Python)
+This project is a simple Morse Code Translator developed in Python. It allows users to convert English text to Morse code and Morse code back to English. It’s a beginner-friendly project that demonstrates string manipulation, dictionaries, and basic user interaction in Python.
+
+✨ Features
+🔤 Translate English text to Morse code
+
+🔁 Translate Morse code to English
+
+🚫 Handles invalid characters and input errors gracefully
+
+🖥️ Console-based user interface
+
+🛠️ Language Used: Python 3
+
+📌 Concepts Covered
+Dictionaries in Python
+
+String handling and formatting
+
+Conditional logic
+
+User input/output
